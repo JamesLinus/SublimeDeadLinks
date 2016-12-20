@@ -1,0 +1,7 @@
+[
+  {
+      "id" : "check_dead_links",
+      "caption" : "Check dead links",
+      "command" : "check_dead_links"
+  }
+]

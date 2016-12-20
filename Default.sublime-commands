@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "DeadLinks: Check dead links",
+    "command": "check_dead_links"
+  }
+]
